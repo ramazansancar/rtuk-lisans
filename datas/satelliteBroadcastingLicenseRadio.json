@@ -23,6 +23,17 @@
     },
     {
         "id": 3,
+        "name": "",
+        "license": "Uydu Radyo",
+        "license_type": "Uydu",
+        "lisence_detail": "",
+        "broadcast_branding": "TRC RADYO",
+        "start_date": "24.07.2025",
+        "end_date": "24.07.2035",
+        "address": ""
+    },
+    {
+        "id": 4,
         "name": "ARTI TELEVİZYON YAYINCILIĞI SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -33,18 +44,18 @@
         "address": ""
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "ASLAN RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "Tematik (Müzik-eğlence)",
         "broadcast_branding": "Number 1 Türk FM",
         "start_date": "30.09.2015",
-        "end_date": "29.09.2025",
+        "end_date": "30.09.2025",
         "address": ""
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "ATAKÖY FM İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -55,7 +66,7 @@
         "address": ""
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "AVRUPA ELEKTRONİK YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -66,7 +77,18 @@
         "address": ""
     },
     {
-        "id": 7,
+        "id": 8,
+        "name": "BARIŞ RADYO VE TELEVİZYON YAYINCILIK TİCARET ANONİM ŞİRKETİ",
+        "license": "Uydu Radyo",
+        "license_type": "Uydu",
+        "lisence_detail": "Genel",
+        "broadcast_branding": "RD SEYMEN",
+        "start_date": "18.12.2024",
+        "end_date": "17.12.2034",
+        "address": ""
+    },
+    {
+        "id": 9,
         "name": "BEST PRODUCTION YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -77,7 +99,7 @@
         "address": ""
     },
     {
-        "id": 8,
+        "id": 10,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -88,7 +110,7 @@
         "address": ""
     },
     {
-        "id": 9,
+        "id": 11,
         "name": "BİLİM MEDYA YAYIN VE REKLAM ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -99,7 +121,7 @@
         "address": ""
     },
     {
-        "id": 10,
+        "id": 12,
         "name": "BİLİŞİM RADYO TELEVİZYON YAYINCILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -110,7 +132,7 @@
         "address": ""
     },
     {
-        "id": 11,
+        "id": 13,
         "name": "BİRİNCİ RADYO TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -121,7 +143,7 @@
         "address": ""
     },
     {
-        "id": 12,
+        "id": 14,
         "name": "BOĞAZİÇİ RADYO TELEVİZYON YAYINCILIĞI VE REKLAMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -132,18 +154,18 @@
         "address": ""
     },
     {
-        "id": 13,
+        "id": 15,
         "name": "CİNER MEDYA TV HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "Genel",
-        "broadcast_branding": "HT",
+        "broadcast_branding": "HT SPOR",
         "start_date": "24.12.2021",
         "end_date": "24.12.2031",
         "address": ""
     },
     {
-        "id": 14,
+        "id": 16,
         "name": "ÇINAR RADYO TELEVİZYON YAYINCILIK VE REKLAMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -154,7 +176,7 @@
         "address": ""
     },
     {
-        "id": 15,
+        "id": 17,
         "name": "DEMİRÖREN TV RADYO YAYINCILIK YAPIMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -165,7 +187,7 @@
         "address": ""
     },
     {
-        "id": 16,
+        "id": 18,
         "name": "DİNAMİK RADYO TELEVİZYON ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -176,7 +198,7 @@
         "address": ""
     },
     {
-        "id": 17,
+        "id": 19,
         "name": "DRİFT RADYO TELEVİZYON YAPIM VE YAYINCILIK PRODÜKSİYON REKLAMCILIK AJANSI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -187,7 +209,7 @@
         "address": ""
     },
     {
-        "id": 18,
+        "id": 20,
         "name": "EGEVİZYON GÖRSEL VE İŞİTSEL MEDYA YAYINLARI VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -198,7 +220,7 @@
         "address": ""
     },
     {
-        "id": 19,
+        "id": 21,
         "name": "EMİN RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -209,7 +231,7 @@
         "address": ""
     },
     {
-        "id": 20,
+        "id": 22,
         "name": "ENDÜSTRİ MEDYA RADYO TELEVİZYON YAYINCILIK SANAYİ TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -220,7 +242,7 @@
         "address": ""
     },
     {
-        "id": 21,
+        "id": 23,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -231,7 +253,7 @@
         "address": ""
     },
     {
-        "id": 22,
+        "id": 24,
         "name": "ERT1 RADYO TELEVİZYON REKLAM VE YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -242,18 +264,7 @@
         "address": ""
     },
     {
-        "id": 23,
-        "name": "FARGO RADYO VE TELEVİZYON ANONİM ŞİRKETİ",
-        "license": "Uydu Radyo",
-        "license_type": "Uydu",
-        "lisence_detail": "Tematik (Müzik-eğlence)",
-        "broadcast_branding": "SOUT AL KHALEEJ",
-        "start_date": "17.08.2014",
-        "end_date": "16.08.2024",
-        "address": ""
-    },
-    {
-        "id": 24,
+        "id": 25,
         "name": "FATİH RADYO TV YAYIMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -264,18 +275,18 @@
         "address": ""
     },
     {
-        "id": 25,
-        "name": "GÜNIŞIĞI İLETİŞİM ANONİM ŞİRKETİ",
+        "id": 26,
+        "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
-        "lisence_detail": "Tematik (Müzik-eğlence)",
-        "broadcast_branding": "Siaray Türk Türkiye...",
-        "start_date": "21.05.2023",
-        "end_date": "21.05.2033",
+        "lisence_detail": "Genel",
+        "broadcast_branding": "GAİN",
+        "start_date": "24.07.2025",
+        "end_date": "24.07.2035",
         "address": ""
     },
     {
-        "id": 26,
+        "id": 27,
         "name": "HALİÇ TELEVİZYON VE RADYO YAYINCILIĞI TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -286,7 +297,7 @@
         "address": ""
     },
     {
-        "id": 27,
+        "id": 28,
         "name": "HAT MEDYA YAYINCILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -297,7 +308,7 @@
         "address": ""
     },
     {
-        "id": 28,
+        "id": 29,
         "name": "HAYAT GÖRSEL YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -308,7 +319,7 @@
         "address": ""
     },
     {
-        "id": 29,
+        "id": 30,
         "name": "HD YAYINCILIK VE MEDYA HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -319,7 +330,7 @@
         "address": ""
     },
     {
-        "id": 30,
+        "id": 31,
         "name": "İLBAK TV YAYINCILIK VE İLETİŞİM ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -330,7 +341,7 @@
         "address": ""
     },
     {
-        "id": 31,
+        "id": 32,
         "name": "İNTERCONTACT RADYO İLETİŞİM YAYINCILIK SANAYİ ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -341,7 +352,7 @@
         "address": ""
     },
     {
-        "id": 32,
+        "id": 33,
         "name": "İSTANBUL DOLUNAY RADYO TELEVİZYON YAYINCILIK VE REKLAMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -352,18 +363,29 @@
         "address": ""
     },
     {
-        "id": 33,
+        "id": 34,
+        "name": "İSTANBUL FM RADYO TELEVİZYON VE UYDU YAYINCILIĞI ANONİM ŞİRKETİ",
+        "license": "Uydu Radyo",
+        "license_type": "Uydu",
+        "lisence_detail": "Tematik (Müzik-eğlence)",
+        "broadcast_branding": "Kalp FM Kalbinin Ses...",
+        "start_date": "21.05.2023",
+        "end_date": "20.05.2033",
+        "address": ""
+    },
+    {
+        "id": 35,
         "name": "İSTANBUL FM SLOW MÜZİK RADYO TELEVİZYON VE UYDU YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "Genel",
         "broadcast_branding": "İstanbul FM Slow",
-        "start_date": "03.06.2015",
-        "end_date": "03.06.2025",
+        "start_date": "03.06.2025",
+        "end_date": "03.06.2035",
         "address": ""
     },
     {
-        "id": 34,
+        "id": 36,
         "name": "İYİ HABER YAYIN ORGANİZASYON TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -374,7 +396,7 @@
         "address": ""
     },
     {
-        "id": 35,
+        "id": 37,
         "name": "KARADENİZ FM RADYO YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -385,7 +407,7 @@
         "address": ""
     },
     {
-        "id": 36,
+        "id": 38,
         "name": "KARNAVAL UYDU YAYINCILIĞI TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -396,7 +418,7 @@
         "address": ""
     },
     {
-        "id": 37,
+        "id": 39,
         "name": "KRAL MÜZİK MEDYA HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -407,18 +429,18 @@
         "address": ""
     },
     {
-        "id": 38,
+        "id": 40,
         "name": "KÜPE RADYO TELEVİZYON YAYINCILIK VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "Genel",
         "broadcast_branding": "KÜPE FM",
-        "start_date": "05.04.2015",
-        "end_date": "04.04.2025",
+        "start_date": "05.04.2025",
+        "end_date": "05.04.2035",
         "address": ""
     },
     {
-        "id": 39,
+        "id": 41,
         "name": "MAKSİMUM RADYO TV YAYINCILIK REKLAMCILIK VE TANITIM ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -429,18 +451,18 @@
         "address": ""
     },
     {
-        "id": 40,
+        "id": 42,
         "name": "MEDYA İZMİR BASIN YAYIN REKLAMCILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "Genel",
         "broadcast_branding": "KAFA RADYO",
-        "start_date": "30.06.2015",
-        "end_date": "29.06.2025",
+        "start_date": "30.06.2025",
+        "end_date": "30.06.2035",
         "address": ""
     },
     {
-        "id": 41,
+        "id": 43,
         "name": "MELTEM RADYO VE TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -451,7 +473,7 @@
         "address": ""
     },
     {
-        "id": 42,
+        "id": 44,
         "name": "MES TELEVİZYON VE RADYO YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -462,7 +484,7 @@
         "address": ""
     },
     {
-        "id": 43,
+        "id": 45,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -473,7 +495,7 @@
         "address": ""
     },
     {
-        "id": 44,
+        "id": 46,
         "name": "NSPOR RADYO VE TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -484,7 +506,7 @@
         "address": ""
     },
     {
-        "id": 45,
+        "id": 47,
         "name": "NTV RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -495,7 +517,7 @@
         "address": ""
     },
     {
-        "id": 46,
+        "id": 48,
         "name": "OĞLAK RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -506,7 +528,7 @@
         "address": ""
     },
     {
-        "id": 47,
+        "id": 49,
         "name": "ÖZ RADYO 2000 FM YAYINCILIK VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -517,7 +539,7 @@
         "address": ""
     },
     {
-        "id": 48,
+        "id": 50,
         "name": "PAL MEDİA TELEVİZYON RADYO PRODÜKSİYON REKLAM VE YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -528,7 +550,7 @@
         "address": ""
     },
     {
-        "id": 49,
+        "id": 51,
         "name": "PAL NOSTALJİ RADYO VE TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -539,18 +561,18 @@
         "address": ""
     },
     {
-        "id": 50,
+        "id": 52,
         "name": "PENDİK PRODÜKSİYON VE RADYO TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "Genel",
         "broadcast_branding": "BAYRAM FM",
-        "start_date": "06.11.2014",
-        "end_date": "05.11.2024",
+        "start_date": "06.11.2024",
+        "end_date": "06.11.2034",
         "address": ""
     },
     {
-        "id": 51,
+        "id": 53,
         "name": "POWER RADYO REKLAM VE YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -561,18 +583,7 @@
         "address": ""
     },
     {
-        "id": 52,
-        "name": "RADYO VATAN YAYINCILIK ANONİM ŞİRKETİ",
-        "license": "Uydu Radyo",
-        "license_type": "Uydu",
-        "lisence_detail": "Tematik (Müzik-eğlence)",
-        "broadcast_branding": "RADYO VATAN",
-        "start_date": "29.12.2014",
-        "end_date": "28.12.2024",
-        "address": ""
-    },
-    {
-        "id": 53,
+        "id": 54,
         "name": "RADYOSPOR RADYO YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -583,7 +594,7 @@
         "address": ""
     },
     {
-        "id": 54,
+        "id": 55,
         "name": "RAPSODİ RADYO VE TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -594,7 +605,7 @@
         "address": ""
     },
     {
-        "id": 55,
+        "id": 56,
         "name": "REHBER RADYO TELEVİZYON ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -605,7 +616,7 @@
         "address": ""
     },
     {
-        "id": 56,
+        "id": 57,
         "name": "RENK RADYO VE TELEVİZYON YAYINCILIK HİZMETLERİ TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -616,7 +627,7 @@
         "address": ""
     },
     {
-        "id": 57,
+        "id": 58,
         "name": "RİBAT RADYO TELEVİZYON VE YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -627,7 +638,7 @@
         "address": ""
     },
     {
-        "id": 58,
+        "id": 59,
         "name": "RUMELİ REKLAMCILIK VE RADYO YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -638,7 +649,7 @@
         "address": ""
     },
     {
-        "id": 59,
+        "id": 60,
         "name": "SARAN RADYO YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -649,7 +660,7 @@
         "address": ""
     },
     {
-        "id": 60,
+        "id": 61,
         "name": "SEMERKAND RADYO VE TELEVİZYON ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -660,7 +671,7 @@
         "address": ""
     },
     {
-        "id": 61,
+        "id": 62,
         "name": "SHOW RADYO YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -671,18 +682,18 @@
         "address": ""
     },
     {
-        "id": 62,
+        "id": 63,
         "name": "SİMGE RADYOCULUK YAYINCILIK VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "Tematik (Eğitim/kültür)",
         "broadcast_branding": "SEYR FM",
-        "start_date": "29.12.2014",
-        "end_date": "29.12.2024",
+        "start_date": "29.12.2024",
+        "end_date": "29.12.2034",
         "address": ""
     },
     {
-        "id": 63,
+        "id": 64,
         "name": "STARTV MEDYA HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -693,7 +704,7 @@
         "address": ""
     },
     {
-        "id": 64,
+        "id": 65,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -704,7 +715,7 @@
         "address": ""
     },
     {
-        "id": 65,
+        "id": 66,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -715,7 +726,7 @@
         "address": ""
     },
     {
-        "id": 66,
+        "id": 67,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -726,7 +737,7 @@
         "address": ""
     },
     {
-        "id": 67,
+        "id": 68,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -737,7 +748,7 @@
         "address": ""
     },
     {
-        "id": 68,
+        "id": 69,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -748,7 +759,7 @@
         "address": ""
     },
     {
-        "id": 69,
+        "id": 70,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -759,7 +770,7 @@
         "address": ""
     },
     {
-        "id": 70,
+        "id": 71,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -770,23 +781,12 @@
         "address": ""
     },
     {
-        "id": 71,
-        "name": "",
-        "license": "Uydu Radyo",
-        "license_type": "Uydu",
-        "lisence_detail": "",
-        "broadcast_branding": "TRT FM",
-        "start_date": "01.01.1994",
-        "end_date": "01.01.2100",
-        "address": ""
-    },
-    {
         "id": 72,
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "TRT MEMLEKET FM",
+        "broadcast_branding": "TRT FM",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -797,7 +797,7 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "TRT TRABZON RADYOSU",
+        "broadcast_branding": "TRT MEMLEKET FM",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -808,7 +808,7 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "TSR TÜRKÇE",
+        "broadcast_branding": "TRT TRABZON RADYOSU",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -819,7 +819,7 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "VOT WEST",
+        "broadcast_branding": "TSR TÜRKÇE",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -830,7 +830,7 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "VOT EAST",
+        "broadcast_branding": "VOT WEST",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -841,7 +841,7 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "VOT WORLD",
+        "broadcast_branding": "VOT EAST",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -852,7 +852,7 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "TRT Nağme",
+        "broadcast_branding": "VOT WORLD",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -863,7 +863,7 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "TRT Türkü",
+        "broadcast_branding": "TRT Nağme",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -873,8 +873,8 @@
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
-        "lisence_detail": "Genel",
-        "broadcast_branding": "TRT Radyo 1",
+        "lisence_detail": "",
+        "broadcast_branding": "TRT Türkü",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -885,7 +885,7 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "Genel",
-        "broadcast_branding": "RADYO 3",
+        "broadcast_branding": "TRT Radyo 1",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -895,8 +895,8 @@
         "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
-        "lisence_detail": "",
-        "broadcast_branding": "TRT RADİO ARABİ",
+        "lisence_detail": "Genel",
+        "broadcast_branding": "RADYO 3",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -907,9 +907,9 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "TRT FM",
+        "broadcast_branding": "TRT RADİO ARABİ",
         "start_date": "01.01.1994",
-        "end_date": "01.01.2100",
+        "end_date": "01.01.1970",
         "address": ""
     },
     {
@@ -918,7 +918,7 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "RADYO 6 / TRT Radyo ...",
+        "broadcast_branding": "TRT FM",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
@@ -929,13 +929,24 @@
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
-        "broadcast_branding": "TRT WORLD RADİO",
+        "broadcast_branding": "RADYO 6 / TRT Radyo ...",
         "start_date": "01.01.1994",
         "end_date": "01.01.2100",
         "address": ""
     },
     {
         "id": 86,
+        "name": "",
+        "license": "Uydu Radyo",
+        "license_type": "Uydu",
+        "lisence_detail": "",
+        "broadcast_branding": "TRT WORLD RADİO",
+        "start_date": "01.01.1994",
+        "end_date": "01.01.2100",
+        "address": ""
+    },
+    {
+        "id": 87,
         "name": "TURKUVAZ EKONOMİ TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -946,7 +957,7 @@
         "address": ""
     },
     {
-        "id": 87,
+        "id": 88,
         "name": "TURKUVAZ ATV TELEVİZYON PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -957,7 +968,7 @@
         "address": ""
     },
     {
-        "id": 88,
+        "id": 89,
         "name": "TURKUVAZ MEDYA YAYIN HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -968,7 +979,7 @@
         "address": ""
     },
     {
-        "id": 89,
+        "id": 90,
         "name": "TURKUVAZ YAYIN HİZMETLERİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -979,7 +990,7 @@
         "address": ""
     },
     {
-        "id": 90,
+        "id": 91,
         "name": "TURKUVAZ YENİ ASIR TELEVİZYON PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
@@ -990,29 +1001,51 @@
         "address": ""
     },
     {
-        "id": 91,
+        "id": 92,
+        "name": "VARLIK HABER RADYO TELEVİZYON YAYINCILIK İLETİŞİM VE TİCARET ANONİM ŞİRKETİ",
+        "license": "Uydu Radyo",
+        "license_type": "Uydu",
+        "lisence_detail": "Tematik (Haber)",
+        "broadcast_branding": "VARLIK HABER",
+        "start_date": "18.12.2024",
+        "end_date": "18.12.2034",
+        "address": ""
+    },
+    {
+        "id": 93,
+        "name": "VARLIK RADYO TELEVİZYON YAYINCILIK İLETİŞİM VE TİCARET ANONİM ŞİRKETİ",
+        "license": "Uydu Radyo",
+        "license_type": "Uydu",
+        "lisence_detail": "Genel",
+        "broadcast_branding": "VARLIK RADYO",
+        "start_date": "18.12.2024",
+        "end_date": "18.12.2034",
+        "address": ""
+    },
+    {
+        "id": 94,
         "name": "VENÜS TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
         "lisence_detail": "",
         "broadcast_branding": "MASAL RADYO",
-        "start_date": "14.01.2015",
-        "end_date": "13.01.2025",
+        "start_date": "14.01.2025",
+        "end_date": "14.01.2035",
         "address": ""
     },
     {
-        "id": 92,
-        "name": "YAŞAM YAYINCILIK RADYO VE TELEVİZYON A.Ş.",
+        "id": 95,
+        "name": "",
         "license": "Uydu Radyo",
         "license_type": "Uydu",
-        "lisence_detail": "Tematik (Belgesel)",
-        "broadcast_branding": "Çiftçi Radyo",
-        "start_date": "17.02.2015",
-        "end_date": "16.02.2025",
+        "lisence_detail": "Genel",
+        "broadcast_branding": "GÖKMEN",
+        "start_date": "27.12.2024",
+        "end_date": "27.12.2034",
         "address": ""
     },
     {
-        "id": 93,
+        "id": 96,
         "name": "YÖNELİM YAYINCILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Radyo",
         "license_type": "Uydu",

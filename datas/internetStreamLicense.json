@@ -21,6 +21,16 @@
     },
     {
         "id": 3,
+        "name": "DISCOVERY TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
+        "url": "https://www.blutv.com",
+        "fullname": "",
+        "license": "Platform",
+        "start_date": "",
+        "end_date": "",
+        "license_type": "İNTERNET"
+    },
+    {
+        "id": 4,
         "name": "EXXEN DİJİTAL PLATFORM HİZMETLERİ ANONİM ŞİRKETİ",
         "url": "www.exxen.com",
         "fullname": "",
@@ -30,7 +40,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "KANALW MEDYA VE TELEKOMÜNİKASYON ANONİM ŞİRKETİ",
         "url": "artidijitalmedya.com",
         "fullname": "",
@@ -40,7 +50,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "KARNAVAL MEDYA LABS İNTERNET HİZMETLERİ TİCARET ANONİM ŞİRKETİ",
         "url": "www.karnaval.com",
         "fullname": "",
@@ -50,7 +60,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "KRAL PLATFORM İŞLETMECİLİĞİ ANONİM ŞİRKETİ",
         "url": "www.kralmuzik.com.tr",
         "fullname": "",
@@ -60,7 +70,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "LİFECELL TV YAYIN VE İÇERİK HİZMETLERİ ANONİM ŞİRKETİ",
         "url": "www.tvplus.com.tr",
         "fullname": "",
@@ -70,19 +80,9 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 8,
-        "name": "LİMEX TR İNTERNET TV VE DİJİTAL PLATFORM HİZMETLERİ LİMİTED ŞİRKETİ",
-        "url": "",
-        "fullname": "",
-        "license": "Platform",
-        "start_date": "",
-        "end_date": "",
-        "license_type": "İNTERNET"
-    },
-    {
         "id": 9,
-        "name": "MAVİ DİGİTAL TEKNOLOJİ HİZMETLERİ ANONİM ŞİRKETİ",
-        "url": "www.dsmartgo.com.tr",
+        "name": "LİMEX TR İNTERNET TV VE DİJİTAL PLATFORM HİZMETLERİ LİMİTED ŞİRKETİ",
+        "url": "play.google.com/store/apps/details?id=limex.tv.izle.canli.android",
         "fullname": "",
         "license": "Platform",
         "start_date": "",
@@ -91,6 +91,16 @@
     },
     {
         "id": 10,
+        "name": "MAVİ DİGİTAL TEKNOLOJİ HİZMETLERİ VE TİCARET ANONİM ŞİRKETİ",
+        "url": "www.dsmartgo.com.tr",
+        "fullname": "",
+        "license": "Platform",
+        "start_date": "",
+        "end_date": "",
+        "license_type": "İNTERNET"
+    },
+    {
+        "id": 11,
         "name": "MENKAR TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "url": "https://www.todtv.com.tr",
         "fullname": "",
@@ -100,7 +110,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "",
         "url": "www.radyohome.com",
         "fullname": "",
@@ -110,7 +120,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "MTEL TURKEY TELEKOMÜNİKASYON LİMİTED ŞİRKETİ",
         "url": "",
         "fullname": "",
@@ -120,7 +130,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "NET EKRAN 11 TELEVİZYON VE MEDYA HİZMETLERİ ANONİM ŞİRKETİ",
         "url": "www.tivibu.com.tr",
         "fullname": "",
@@ -130,7 +140,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "PLATFORMTURK DİJİTAL PLATFORM HİZMETLERİ ANONİM ŞİRKETİ",
         "url": "www.filbox.com.tr",
         "fullname": "",
@@ -140,7 +150,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "PUHUTV PLATFORM İŞLETMECİLİĞİ ANONİM ŞİRKETİ",
         "url": "https://puhutv.com",
         "fullname": "",
@@ -150,7 +160,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "",
         "url": "canliradyodinle.fm",
         "fullname": "",
@@ -160,7 +170,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "SARAN DİJİTAL PLATFORM İŞLETMECİLİĞİ ANONİM ŞİRKETİ",
         "url": "https://www.ssportplus.com",
         "fullname": "",
@@ -170,7 +180,7 @@
         "license_type": "İNTERNET"
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "TURKUVAZ GLOBAL MEDYA YAYINCILIK ANONİM ŞİRKETİ",
         "url": "www.724dinle.com",
         "fullname": "",
