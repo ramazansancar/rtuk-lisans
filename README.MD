@@ -1,13 +1,6 @@
 # RTÜK Lisanslar Crawler for Golang
 
-
-
-It is recommended that people who will use it for data processing use the JSON file. The JSON file is updated every every day at midnight (00:00) for UTC. The data is taken from the site [Anıt Sayaç](https://anitsayac.com/).
-
-## ❗ Important Information
-
-- It is known that errors occur due to incorrect data entry in data with IDs 70, 69, 114, 78, 71, 511, 605, 607, 3580, 1051, 934, 675, 617, 616, 611, 599, 138.
-- Blank data appears that way because it is not available on the site.
+A web crawler written in Go to scrape and collect license information of media service providers from the RTÜK (Radio and Television Supreme Council) website.
 
 ## Installation
 

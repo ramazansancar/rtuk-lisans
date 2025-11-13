@@ -362,6 +362,8 @@ func getSatelliteBroadcastingLicense(fileNameTV string, fileNameRadio string) {
 		return
 	}
 
+	fmt.Printf("Licenses written to %s\n", fileNameRadio)
+
 	// Write to the file for TV
 	TVData, err := json.MarshalIndent(licensesTV, "", "    ")
 	if err != nil {
