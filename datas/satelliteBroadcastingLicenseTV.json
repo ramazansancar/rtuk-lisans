@@ -1147,11 +1147,11 @@
         "id": 105,
         "name": "IRMAK İLETİŞİM YAYINCILIK VE REKLAMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "",
         "lisence_detail": "Genel",
         "broadcast_branding": "akrt",
-        "start_date": "21.10.2015",
-        "end_date": "20.10.2025",
+        "start_date": "",
+        "end_date": "",
         "address": ""
     },
     {
@@ -1356,11 +1356,11 @@
         "id": 124,
         "name": "",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "",
         "broadcast_branding": "VANtv",
         "start_date": "13.07.2023",
-        "end_date": "12.07.2033",
+        "end_date": "13.07.2033",
         "address": ""
     },
     {
@@ -2258,7 +2258,7 @@
         "id": 206,
         "name": "SERPULAT RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "ONS TV",
         "start_date": "24.06.2025",
