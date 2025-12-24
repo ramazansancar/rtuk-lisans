@@ -1290,11 +1290,11 @@
         "id": 118,
         "name": "KANAL BEYAZ TELEVİZYON RADYO YAYINCILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SDHD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "BEYAZ TV",
-        "start_date": "",
-        "end_date": "08.02.2015",
+        "start_date": "08.02.2015",
+        "end_date": "08.02.2025",
         "address": ""
     },
     {
