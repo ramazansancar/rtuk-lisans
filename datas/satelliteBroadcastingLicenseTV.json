@@ -1884,11 +1884,11 @@
         "id": 172,
         "name": "OĞLAK RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "",
         "lisence_detail": "Tematik (Müzik-eğlence)",
         "broadcast_branding": "NR 1",
-        "start_date": "24.06.2015",
-        "end_date": "24.06.2025",
+        "start_date": "",
+        "end_date": "",
         "address": ""
     },
     {
