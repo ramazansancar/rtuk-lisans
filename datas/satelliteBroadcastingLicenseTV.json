@@ -1688,7 +1688,7 @@
         "license": "Uydu Tv",
         "license_type": "SDHD",
         "lisence_detail": "Genel",
-        "broadcast_branding": "teve2",
+        "broadcast_branding": "tv2",
         "start_date": "",
         "end_date": "18.09.2021",
         "address": ""
@@ -2435,8 +2435,8 @@
         "name": "TELERE MEDYA DİJİTAL YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
-        "lisence_detail": "Tematik (Müzik-eğlence)",
-        "broadcast_branding": "Vatanın Sesi",
+        "lisence_detail": "Genel",
+        "broadcast_branding": "ege tv",
         "start_date": "30.12.2020",
         "end_date": "29.12.2030",
         "address": ""
@@ -2932,8 +2932,8 @@
         "license_type": "SD",
         "lisence_detail": "Genel",
         "broadcast_branding": "TVDEN",
-        "start_date": "07.09.2015",
-        "end_date": "07.09.2025",
+        "start_date": "07.09.2025",
+        "end_date": "07.09.2035",
         "address": ""
     },
     {
