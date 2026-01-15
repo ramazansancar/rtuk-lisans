@@ -2091,17 +2091,6 @@
     },
     {
         "id": 191,
-        "name": "RADYO CANAY REKLAM VE YAYINCILIK ANONİM ŞİRKETİ",
-        "license": "Uydu Tv",
-        "license_type": "SD",
-        "lisence_detail": "Genel",
-        "broadcast_branding": "ADANA TV",
-        "start_date": "12.01.2016",
-        "end_date": "11.01.2026",
-        "address": ""
-    },
-    {
-        "id": 192,
         "name": "REHBER RADYO TELEVİZYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2112,7 +2101,7 @@
         "address": ""
     },
     {
-        "id": 193,
+        "id": 192,
         "name": "RİMAS TELEVİZYON RADYO PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2123,7 +2112,7 @@
         "address": ""
     },
     {
-        "id": 194,
+        "id": 193,
         "name": "RM RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2134,7 +2123,7 @@
         "address": ""
     },
     {
-        "id": 195,
+        "id": 194,
         "name": "RTV 58 RADYO TELEVİZYON İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2145,7 +2134,7 @@
         "address": ""
     },
     {
-        "id": 196,
+        "id": 195,
         "name": "SAFİR RADYO TELEVİZYON YAYINCILIK YAPIMCILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2156,7 +2145,7 @@
         "address": ""
     },
     {
-        "id": 197,
+        "id": 196,
         "name": "SATÜRN TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2167,7 +2156,7 @@
         "address": ""
     },
     {
-        "id": 198,
+        "id": 197,
         "name": "SEDNA TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2178,7 +2167,7 @@
         "address": ""
     },
     {
-        "id": 199,
+        "id": 198,
         "name": "SEKİZ BUÇUK MEDYA TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2189,7 +2178,7 @@
         "address": ""
     },
     {
-        "id": 200,
+        "id": 199,
         "name": "SEMERKAND AVRUPA RADYO VE TELEVİZYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2200,7 +2189,7 @@
         "address": ""
     },
     {
-        "id": 201,
+        "id": 200,
         "name": "SEMERKAND RADYO VE TELEVİZYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2211,7 +2200,7 @@
         "address": ""
     },
     {
-        "id": 202,
+        "id": 201,
         "name": "SERAPİS TELEVİZYON VE RADYO YAYINCILIK A.Ş.",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2222,7 +2211,7 @@
         "address": ""
     },
     {
-        "id": 203,
+        "id": 202,
         "name": "SERPULAT RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2233,7 +2222,7 @@
         "address": ""
     },
     {
-        "id": 204,
+        "id": 203,
         "name": "SEYİR TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2244,7 +2233,7 @@
         "address": ""
     },
     {
-        "id": 205,
+        "id": 204,
         "name": "SHOW TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2255,7 +2244,7 @@
         "address": ""
     },
     {
-        "id": 206,
+        "id": 205,
         "name": "SHOWMAX TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2266,7 +2255,7 @@
         "address": ""
     },
     {
-        "id": 207,
+        "id": 206,
         "name": "SHOWTURK TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2277,7 +2266,7 @@
         "address": ""
     },
     {
-        "id": 208,
+        "id": 207,
         "name": "SİNEMA TELEVİZYON YAYINCILIK VE PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2288,7 +2277,7 @@
         "address": ""
     },
     {
-        "id": 209,
+        "id": 208,
         "name": "SPACETOON KİDS TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2299,7 +2288,7 @@
         "address": ""
     },
     {
-        "id": 210,
+        "id": 209,
         "name": "SPOR TSTV TELEVİZYON VE RADYO YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2310,7 +2299,7 @@
         "address": ""
     },
     {
-        "id": 211,
+        "id": 210,
         "name": "SPORTV MEDYA HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2321,7 +2310,7 @@
         "address": ""
     },
     {
-        "id": 212,
+        "id": 211,
         "name": "STAR AVRUPA RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2332,7 +2321,7 @@
         "address": ""
     },
     {
-        "id": 213,
+        "id": 212,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2343,7 +2332,7 @@
         "address": ""
     },
     {
-        "id": 214,
+        "id": 213,
         "name": "STARTV MEDYA HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2354,7 +2343,7 @@
         "address": ""
     },
     {
-        "id": 215,
+        "id": 214,
         "name": "SUN RADYO TELEVİZYON YAYINCILIK VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2365,7 +2354,7 @@
         "address": ""
     },
     {
-        "id": 216,
+        "id": 215,
         "name": "SÜPER FM 100 PRODÜKSİYON RADYO TV YAYINCILIK VE REKLAMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2376,7 +2365,7 @@
         "address": ""
     },
     {
-        "id": 217,
+        "id": 216,
         "name": "TANA TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2387,7 +2376,7 @@
         "address": ""
     },
     {
-        "id": 218,
+        "id": 217,
         "name": "TBS ISTANBUL YAYINCILIK VE PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2398,7 +2387,7 @@
         "address": ""
     },
     {
-        "id": 219,
+        "id": 218,
         "name": "TEK RUMELİ TELEVİZYON RADYO PRODÜKSİYON VE YAYINCILIK TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2409,7 +2398,7 @@
         "address": ""
     },
     {
-        "id": 220,
+        "id": 219,
         "name": "TEKİN AKDENİZ RADYO TELEVİZYON TANITIM HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2420,7 +2409,7 @@
         "address": ""
     },
     {
-        "id": 221,
+        "id": 220,
         "name": "TELERE MEDYA DİJİTAL YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2431,7 +2420,7 @@
         "address": ""
     },
     {
-        "id": 222,
+        "id": 221,
         "name": "TEMATİK TELEVİZYON VE RADYO YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2442,7 +2431,7 @@
         "address": ""
     },
     {
-        "id": 223,
+        "id": 222,
         "name": "TEPE MEDYA YAYINCILIK TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2453,7 +2442,7 @@
         "address": ""
     },
     {
-        "id": 224,
+        "id": 223,
         "name": "TEXS MEDYA YAYINCILIK HABERLEŞME TEKNOLOJİLERİ VE İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2464,7 +2453,7 @@
         "address": ""
     },
     {
-        "id": 225,
+        "id": 224,
         "name": "TGRT DİJİTAL TV HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2475,7 +2464,7 @@
         "address": ""
     },
     {
-        "id": 226,
+        "id": 225,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2486,7 +2475,7 @@
         "address": ""
     },
     {
-        "id": 227,
+        "id": 226,
         "name": "TGRT RADYO VE TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2497,7 +2486,7 @@
         "address": ""
     },
     {
-        "id": 228,
+        "id": 227,
         "name": "TİVİLİFE TELEVİZYON YAYINCILIK VE PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2508,7 +2497,7 @@
         "address": ""
     },
     {
-        "id": 229,
+        "id": 228,
         "name": "TOKUŞ RADYO TELEVİZYON DİJİTAL YAYINCILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2519,7 +2508,7 @@
         "address": ""
     },
     {
-        "id": 230,
+        "id": 229,
         "name": "TON RADYO TELEVİZYON VE YAYINCILIK A.Ş.",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2530,7 +2519,7 @@
         "address": ""
     },
     {
-        "id": 231,
+        "id": 230,
         "name": "TOPAZ TELEVİZYON VE RADYO YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2541,7 +2530,7 @@
         "address": ""
     },
     {
-        "id": 232,
+        "id": 231,
         "name": "TRİTON TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2552,7 +2541,7 @@
         "address": ""
     },
     {
-        "id": 233,
+        "id": 232,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2563,7 +2552,7 @@
         "address": ""
     },
     {
-        "id": 234,
+        "id": 233,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2574,7 +2563,7 @@
         "address": ""
     },
     {
-        "id": 235,
+        "id": 234,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2585,7 +2574,7 @@
         "address": ""
     },
     {
-        "id": 236,
+        "id": 235,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2596,7 +2585,7 @@
         "address": ""
     },
     {
-        "id": 237,
+        "id": 236,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2607,7 +2596,7 @@
         "address": ""
     },
     {
-        "id": 238,
+        "id": 237,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2618,7 +2607,7 @@
         "address": ""
     },
     {
-        "id": 239,
+        "id": 238,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2629,7 +2618,7 @@
         "address": ""
     },
     {
-        "id": 240,
+        "id": 239,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2640,7 +2629,7 @@
         "address": ""
     },
     {
-        "id": 241,
+        "id": 240,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2651,7 +2640,7 @@
         "address": ""
     },
     {
-        "id": 242,
+        "id": 241,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2662,7 +2651,7 @@
         "address": ""
     },
     {
-        "id": 243,
+        "id": 242,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2673,7 +2662,7 @@
         "address": ""
     },
     {
-        "id": 244,
+        "id": 243,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2684,7 +2673,7 @@
         "address": ""
     },
     {
-        "id": 245,
+        "id": 244,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2695,7 +2684,7 @@
         "address": ""
     },
     {
-        "id": 246,
+        "id": 245,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2706,7 +2695,7 @@
         "address": ""
     },
     {
-        "id": 247,
+        "id": 246,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2717,7 +2706,7 @@
         "address": ""
     },
     {
-        "id": 248,
+        "id": 247,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2728,7 +2717,7 @@
         "address": ""
     },
     {
-        "id": 249,
+        "id": 248,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2739,7 +2728,7 @@
         "address": ""
     },
     {
-        "id": 250,
+        "id": 249,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2750,7 +2739,7 @@
         "address": ""
     },
     {
-        "id": 251,
+        "id": 250,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2761,7 +2750,7 @@
         "address": ""
     },
     {
-        "id": 252,
+        "id": 251,
         "name": "TRT TÜRKİYE RADYO-TELEVİZYON KURUMU GENEL MÜDÜRLÜĞÜ",
         "license": "Uydu Tv",
         "license_type": "4K",
@@ -2772,7 +2761,7 @@
         "address": ""
     },
     {
-        "id": 253,
+        "id": 252,
         "name": "TRT TÜRKİYE RADYO-TELEVİZYON KURUMU GENEL MÜDÜRLÜĞÜ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2783,7 +2772,7 @@
         "address": ""
     },
     {
-        "id": 254,
+        "id": 253,
         "name": "TURA RADYO TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2794,7 +2783,7 @@
         "address": ""
     },
     {
-        "id": 255,
+        "id": 254,
         "name": "TURKUVAZ EKONOMİ TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2805,7 +2794,7 @@
         "address": ""
     },
     {
-        "id": 256,
+        "id": 255,
         "name": "TURKUVAZ AKTİF TELEVİZYON PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2816,7 +2805,7 @@
         "address": ""
     },
     {
-        "id": 257,
+        "id": 256,
         "name": "TURKUVAZ ATV TELEVİZYON PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2827,7 +2816,7 @@
         "address": ""
     },
     {
-        "id": 258,
+        "id": 257,
         "name": "TURKUVAZ GÖRSEL VE İŞİTSEL İLETİŞİM ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2838,7 +2827,7 @@
         "address": ""
     },
     {
-        "id": 259,
+        "id": 258,
         "name": "TURKUVAZ İZMİR TELEVİZYON PRODÜKSİYON VE RADYOCULUK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2849,7 +2838,7 @@
         "address": ""
     },
     {
-        "id": 260,
+        "id": 259,
         "name": "TURKUVAZ MEDYA YAYIN HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2860,7 +2849,7 @@
         "address": ""
     },
     {
-        "id": 261,
+        "id": 260,
         "name": "TURKUVAZ TELEVİZYON VE RADYO İŞLETMECİLİĞİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2871,7 +2860,7 @@
         "address": ""
     },
     {
-        "id": 262,
+        "id": 261,
         "name": "TURKUVAZ TV HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2882,7 +2871,7 @@
         "address": ""
     },
     {
-        "id": 263,
+        "id": 262,
         "name": "TURKUVAZ YAYIN HİZMETLERİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2893,7 +2882,7 @@
         "address": ""
     },
     {
-        "id": 264,
+        "id": 263,
         "name": "TURKUVAZ YENİ ASIR TELEVİZYON PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2904,7 +2893,7 @@
         "address": ""
     },
     {
-        "id": 265,
+        "id": 264,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2915,7 +2904,7 @@
         "address": ""
     },
     {
-        "id": 266,
+        "id": 265,
         "name": "TVDEN YAYIN REKLAMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2926,7 +2915,7 @@
         "address": ""
     },
     {
-        "id": 267,
+        "id": 266,
         "name": "UÇANKUŞ MEDYA YAYINCILIK HİZMETLERİ TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -2937,7 +2926,7 @@
         "address": ""
     },
     {
-        "id": 268,
+        "id": 267,
         "name": "ULUSAL KANAL İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2948,7 +2937,7 @@
         "address": ""
     },
     {
-        "id": 269,
+        "id": 268,
         "name": "URFA TV KÜLTÜR SANAT REKLAM VE YAYINCILIK TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2959,7 +2948,7 @@
         "address": ""
     },
     {
-        "id": 270,
+        "id": 269,
         "name": "UZAY RADYO TELEVİZYON GAZETECİLİK REKLAM TANITIM BASIM YAPIM YAYINCILIK VE DAĞITIM TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2970,7 +2959,7 @@
         "address": ""
     },
     {
-        "id": 271,
+        "id": 270,
         "name": "UZMAN AJANS SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -2981,7 +2970,7 @@
         "address": ""
     },
     {
-        "id": 272,
+        "id": 271,
         "name": "VADİ TELEVİZYON YAYINCILIK VE PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -2992,7 +2981,7 @@
         "address": ""
     },
     {
-        "id": 273,
+        "id": 272,
         "name": "VAKIF MEDYA SANAT RADYO TELEVİZYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -3003,7 +2992,7 @@
         "address": ""
     },
     {
-        "id": 274,
+        "id": 273,
         "name": "VARLIK HABER RADYO TELEVİZYON YAYINCILIK İLETİŞİM VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -3014,7 +3003,7 @@
         "address": ""
     },
     {
-        "id": 275,
+        "id": 274,
         "name": "VARLIK RADYO TELEVİZYON YAYINCILIK İLETİŞİM VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -3025,7 +3014,7 @@
         "address": ""
     },
     {
-        "id": 276,
+        "id": 275,
         "name": "VENÜS TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -3036,7 +3025,7 @@
         "address": ""
     },
     {
-        "id": 277,
+        "id": 276,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -3047,7 +3036,7 @@
         "address": ""
     },
     {
-        "id": 278,
+        "id": 277,
         "name": "VİP YAYINCILIK VE REKLAMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -3058,7 +3047,7 @@
         "address": ""
     },
     {
-        "id": 279,
+        "id": 278,
         "name": "VİZYON RADYO - TELEVİZYON YAYINCILIK VE REKLAMCILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -3069,7 +3058,7 @@
         "address": ""
     },
     {
-        "id": 280,
+        "id": 279,
         "name": "VUSLAT RADYO VE TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -3080,7 +3069,7 @@
         "address": ""
     },
     {
-        "id": 281,
+        "id": 280,
         "name": "YAŞAM YAYINCILIK RADYO VE TELEVİZYON A.Ş.",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -3091,7 +3080,7 @@
         "address": ""
     },
     {
-        "id": 282,
+        "id": 281,
         "name": "YAZ TV YAYINCILIK VE İLETİŞİM ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -3102,7 +3091,7 @@
         "address": ""
     },
     {
-        "id": 283,
+        "id": 282,
         "name": "YENİ RENKLER TELEVİZYON YAYINCILIK YAPIMCILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -3113,7 +3102,7 @@
         "address": ""
     },
     {
-        "id": 284,
+        "id": 283,
         "name": "YEŞİLYOL RADYO VE TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -3124,7 +3113,7 @@
         "address": ""
     },
     {
-        "id": 285,
+        "id": 284,
         "name": "",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -3135,7 +3124,7 @@
         "address": ""
     },
     {
-        "id": 286,
+        "id": 285,
         "name": "YİĞİT TELEVİZYON VE RADYO YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -3146,7 +3135,7 @@
         "address": ""
     },
     {
-        "id": 287,
+        "id": 286,
         "name": "YÖNEL MEDYA TELEVİZYONCULUK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
