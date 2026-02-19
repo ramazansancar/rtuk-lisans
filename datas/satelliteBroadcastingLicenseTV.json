@@ -749,17 +749,6 @@
     },
     {
         "id": 69,
-        "name": "",
-        "license": "Uydu Tv",
-        "license_type": "HD",
-        "lisence_detail": "Tematik (Eğitim/kültür)",
-        "broadcast_branding": "EKOTÜRK",
-        "start_date": "10.10.2018",
-        "end_date": "09.10.2028",
-        "address": ""
-    },
-    {
-        "id": 70,
         "name": "ENFORMASYON REKLAMCILIK VE FİLMCİLİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -770,7 +759,7 @@
         "address": ""
     },
     {
-        "id": 71,
+        "id": 70,
         "name": "ER RADYO TELEVİZYON AJANS ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -781,7 +770,7 @@
         "address": ""
     },
     {
-        "id": 72,
+        "id": 71,
         "name": "ERT1 RADYO TELEVİZYON REKLAM VE YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -792,7 +781,7 @@
         "address": ""
     },
     {
-        "id": 73,
+        "id": 72,
         "name": "ERYAN TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -803,7 +792,7 @@
         "address": ""
     },
     {
-        "id": 74,
+        "id": 73,
         "name": "FBL DİJİTAL YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -814,7 +803,7 @@
         "address": ""
     },
     {
-        "id": 75,
+        "id": 74,
         "name": "FENER TV FENER TELEVİZYON HABER VE GÖRSEL YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SDHD",
@@ -825,7 +814,7 @@
         "address": ""
     },
     {
-        "id": 76,
+        "id": 75,
         "name": "FESTİVAL RADYO VE TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -836,7 +825,7 @@
         "address": ""
     },
     {
-        "id": 77,
+        "id": 76,
         "name": "FİL DİJİTAL TV YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -847,7 +836,7 @@
         "address": ""
     },
     {
-        "id": 78,
+        "id": 77,
         "name": "FİLM TELEVİZYON VE YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -858,7 +847,7 @@
         "address": ""
     },
     {
-        "id": 79,
+        "id": 78,
         "name": "FORNAKS TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -869,7 +858,7 @@
         "address": ""
     },
     {
-        "id": 80,
+        "id": 79,
         "name": "FX MEDYA HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "HD",
@@ -877,6 +866,17 @@
         "broadcast_branding": "FX",
         "start_date": "14.05.2023",
         "end_date": "13.05.2033",
+        "address": ""
+    },
+    {
+        "id": 80,
+        "name": "",
+        "license": "Uydu Tv",
+        "license_type": "HD",
+        "lisence_detail": "Tematik (Eğitim/kültür)",
+        "broadcast_branding": "EKOTÜRK",
+        "start_date": "10.10.2018",
+        "end_date": "10.10.2028",
         "address": ""
     },
     {
@@ -3028,7 +3028,7 @@
         "id": 276,
         "name": "VUSLAT RADYO VE TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "telenews",
         "start_date": "16.10.2024",
