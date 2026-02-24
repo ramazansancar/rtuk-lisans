@@ -1763,11 +1763,11 @@
         "id": 161,
         "name": "NET EKRAN 3 TELEVİZYON VE MEDYA HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SDHD",
+        "license_type": "HD",
         "lisence_detail": "Tematik (Sinema-dizi)",
         "broadcast_branding": "Tivibu AİLE",
-        "start_date": "",
-        "end_date": "17.02.2016",
+        "start_date": "17.02.2026",
+        "end_date": "17.02.2036",
         "address": ""
     },
     {
@@ -1961,11 +1961,11 @@
         "id": 179,
         "name": "OSMANİYEM RADYO TELEVİZYON YAYIN İLETİŞİM REKLAM SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "",
         "lisence_detail": "Genel",
         "broadcast_branding": "ORT Osmaniyem Radyo ...",
-        "start_date": "14.10.2025",
-        "end_date": "14.10.2035",
+        "start_date": "",
+        "end_date": "",
         "address": ""
     },
     {
