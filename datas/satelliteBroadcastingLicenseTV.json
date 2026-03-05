@@ -3083,11 +3083,11 @@
         "id": 281,
         "name": "YİĞİT TELEVİZYON VE RADYO YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "",
         "lisence_detail": "Genel",
         "broadcast_branding": "KANAL 68",
-        "start_date": "29.09.2015",
-        "end_date": "28.09.2025",
+        "start_date": "",
+        "end_date": "",
         "address": ""
     },
     {
