@@ -1466,11 +1466,11 @@
         "id": 134,
         "name": "MARMARA TELEVİZYON VE RADYO YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "KÖY TV",
-        "start_date": "05.11.2015",
-        "end_date": "04.11.2025",
+        "start_date": "05.11.2025",
+        "end_date": "05.11.2035",
         "address": ""
     },
     {
