@@ -3081,17 +3081,6 @@
     },
     {
         "id": 281,
-        "name": "YİĞİT TELEVİZYON VE RADYO YAYINCILIK ANONİM ŞİRKETİ",
-        "license": "Uydu Tv",
-        "license_type": "",
-        "lisence_detail": "Genel",
-        "broadcast_branding": "KANAL 68",
-        "start_date": "",
-        "end_date": "",
-        "address": ""
-    },
-    {
-        "id": 282,
         "name": "YÖNEL MEDYA TELEVİZYONCULUK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
@@ -3102,7 +3091,7 @@
         "address": ""
     },
     {
-        "id": 283,
+        "id": 282,
         "name": "ZEOR MEDİA BASIN YAYIN PAZARLAMA ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
         "license_type": "SD",
