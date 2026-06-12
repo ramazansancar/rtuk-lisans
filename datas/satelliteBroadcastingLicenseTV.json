@@ -1327,7 +1327,7 @@
         "lisence_detail": "Tematik (Sinema-dizi)",
         "broadcast_branding": "moviesmart TÜRK",
         "start_date": "07.12.2021",
-        "end_date": "06.12.2031",
+        "end_date": "07.12.2031",
         "address": ""
     },
     {
@@ -1349,7 +1349,7 @@
         "lisence_detail": "Genel",
         "broadcast_branding": "tv42",
         "start_date": "12.07.2021",
-        "end_date": "11.07.2031",
+        "end_date": "12.07.2031",
         "address": ""
     },
     {
@@ -2060,11 +2060,11 @@
         "id": 188,
         "name": "REHBER RADYO TELEVİZYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "Tematik (Eğitim/kültür)",
         "broadcast_branding": "rehber TV",
         "start_date": "24.06.2021",
-        "end_date": "23.06.2031",
+        "end_date": "24.06.2031",
         "address": ""
     },
     {
