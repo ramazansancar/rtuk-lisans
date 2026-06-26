@@ -36,7 +36,7 @@
         "id": 4,
         "name": "ADANA KOZA RADYO TELEVİZYON YAYINCILIĞI ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "KOZA",
         "start_date": "23.08.2023",
@@ -740,11 +740,11 @@
         "id": 68,
         "name": "EGE TV RADYO TELEVİZYON İŞLETMECİLİĞİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "egemax tv",
-        "start_date": "23.12.2016",
-        "end_date": "22.12.2026",
+        "start_date": "16.04.2026",
+        "end_date": "23.12.2026",
         "address": ""
     },
     {
