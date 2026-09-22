@@ -2775,11 +2775,11 @@
         "id": 253,
         "name": "TURKUVAZ GÖRSEL VE İŞİTSEL İLETİŞİM ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "Tematik (Eğitim/kültür)",
         "broadcast_branding": "Minika Go",
-        "start_date": "27.07.2021",
-        "end_date": "26.07.2031",
+        "start_date": "09.09.2026",
+        "end_date": "27.07.2031",
         "address": ""
     },
     {
@@ -2819,11 +2819,11 @@
         "id": 257,
         "name": "TURKUVAZ TV HİZMETLERİ ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "Tematik (Eğitim/kültür)",
         "broadcast_branding": "Minika Çocuk",
-        "start_date": "29.06.2021",
-        "end_date": "28.06.2031",
+        "start_date": "09.09.2026",
+        "end_date": "29.06.2031",
         "address": ""
     },
     {
