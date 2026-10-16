@@ -2203,11 +2203,11 @@
         "id": 201,
         "name": "SHOW TELEVİZYON YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SDHD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "SHOW TV",
-        "start_date": "",
-        "end_date": "10.10.2021",
+        "start_date": "10.10.2021",
+        "end_date": "10.10.2031",
         "address": ""
     },
     {
@@ -2258,11 +2258,11 @@
         "id": 206,
         "name": "SPOR TSTV TELEVİZYON VE RADYO YAYINCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SDHD",
+        "license_type": "HD",
         "lisence_detail": "Tematik (Sağlık-spor)",
         "broadcast_branding": "SPORTSTV",
-        "start_date": "",
-        "end_date": "16.06.2021",
+        "start_date": "03.05.2024",
+        "end_date": "03.05.2034",
         "address": ""
     },
     {
@@ -2324,7 +2324,7 @@
         "id": 212,
         "name": "SÜPER FM 100 PRODÜKSİYON RADYO TV YAYINCILIK VE REKLAMCILIK ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "YILDIZ EN TV",
         "start_date": "17.12.2025",
