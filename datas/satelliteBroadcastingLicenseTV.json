@@ -432,11 +432,11 @@
         "id": 40,
         "name": "",
         "license": "Uydu Tv",
-        "license_type": "SDHD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "Bloomberg HT",
-        "start_date": "",
-        "end_date": "31.01.2022",
+        "start_date": "31.01.2022",
+        "end_date": "31.01.2032",
         "address": ""
     },
     {
@@ -765,8 +765,8 @@
         "license_type": "SD",
         "lisence_detail": "Genel",
         "broadcast_branding": "ERTV E",
-        "start_date": "25.02.2015",
-        "end_date": "24.02.2025",
+        "start_date": "25.02.2025",
+        "end_date": "25.02.2035",
         "address": ""
     },
     {
@@ -2775,22 +2775,22 @@
         "id": 253,
         "name": "TURKUVAZ AKTİF TELEVİZYON PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SDHD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "ATV",
-        "start_date": "",
-        "end_date": "23.01.2022",
+        "start_date": "23.01.2022",
+        "end_date": "23.01.2032",
         "address": ""
     },
     {
         "id": 254,
         "name": "TURKUVAZ ATV TELEVİZYON PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SDHD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "A SPOR",
-        "start_date": "",
-        "end_date": "29.06.2021",
+        "start_date": "29.06.2021",
+        "end_date": "28.06.2031",
         "address": ""
     },
     {
@@ -2863,11 +2863,11 @@
         "id": 261,
         "name": "TURKUVAZ YENİ ASIR TELEVİZYON PRODÜKSİYON ANONİM ŞİRKETİ",
         "license": "Uydu Tv",
-        "license_type": "SDHD",
+        "license_type": "HD",
         "lisence_detail": "Genel",
         "broadcast_branding": "a2",
-        "start_date": "",
-        "end_date": "24.03.2023",
+        "start_date": "24.03.2023",
+        "end_date": "24.03.2033",
         "address": ""
     },
     {
